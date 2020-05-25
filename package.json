@@ -2,6 +2,7 @@
 	"name": "@ctx-core/session",
 	"version": "5.1.56",
 	"description": "ctx-core session",
+	"type": "module",
 	"main": "env.js",
 	"module": "env.js",
 	"types": "env.ts",

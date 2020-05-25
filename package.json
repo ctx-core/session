@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/session",
-	"version": "5.1.56",
+	"version": "5.1.57",
 	"description": "ctx-core session",
 	"type": "module",
 	"main": "env.js",
@@ -30,7 +30,7 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/env": "^8.3.27"
+		"@ctx-core/env": "^8.3.28"
 	},
 	"devDependencies": {
 		"typescript": "^3.9.3"

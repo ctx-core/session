@@ -2,9 +2,9 @@
 	"name": "@ctx-core/session",
 	"version": "5.1.68",
 	"description": "ctx-core session",
-	"main": "env.js",
-	"module": "env.js",
-	"types": "env.ts",
+	"main": "index.js",
+	"module": "index.js",
+	"types": "index.ts",
 	"scripts": {
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",

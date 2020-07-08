@@ -2,9 +2,9 @@
 	"name": "@ctx-core/session",
 	"version": "5.1.70",
 	"description": "ctx-core session",
-	"main": "index.js",
-	"module": "index.js",
-	"types": "index.ts",
+	"main": "./index.js",
+	"module": "./index.js",
+	"types": "./index.ts",
 	"scripts": {
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",

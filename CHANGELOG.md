@@ -1,5 +1,16 @@
 # @ctx-core/session
 
+## 6.0.0
+
+### Major Changes
+
+- Typescript strict checking
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/env@9.0.0
+
 ## 5.1.98
 
 ### Patch Changes

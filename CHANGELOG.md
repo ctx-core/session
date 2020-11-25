@@ -1,5 +1,11 @@
 # @ctx-core/session
 
+## 6.0.33
+
+### Patch Changes
+
+- @ctx-core/env@9.0.34
+
 ## 6.0.32
 
 ### Patch Changes

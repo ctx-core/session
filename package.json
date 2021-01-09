@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/session",
-	"version": "6.0.59",
+	"version": "6.0.60",
 	"description": "ctx-core session",
 	"keywords": [
 		"ctx-core",
@@ -27,7 +27,7 @@
 		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/env": "workspace:^9.3.2"
+		"@ctx-core/env": "workspace:^9.3.3"
 	},
 	"devDependencies": {
 		"typescript": "^4.1.3"

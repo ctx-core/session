@@ -1,5 +1,13 @@
 # @ctx-core/session
 
+## 7.0.17
+
+### Patch Changes
+
+- typescript: ^4.1.5 -> ^4.2.2
+- Updated dependencies [undefined]
+  - @ctx-core/env@10.0.17
+
 ## 7.0.16
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # @ctx-core/session
 
+## 7.0.25
+
+### Patch Changes
+
+- @ctx-core/env@10.0.25
+
 ## 7.0.24
 
 ### Patch Changes

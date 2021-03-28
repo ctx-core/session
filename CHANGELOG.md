@@ -1,5 +1,13 @@
 # @ctx-core/session
 
+## 7.0.32
+
+### Patch Changes
+
+- fix: npm run compile: tsc -b .
+- Updated dependencies [undefined]
+  - @ctx-core/env@10.0.32
+
 ## 7.0.31
 
 ### Patch Changes

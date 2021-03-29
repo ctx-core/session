@@ -1,5 +1,13 @@
 # @ctx-core/session
 
+## 7.0.33
+
+### Patch Changes
+
+- fix: npm publish: https://github.com/npm/cli/issues/2834
+- Updated dependencies [undefined]
+  - @ctx-core/env@10.0.33
+
 ## 7.0.32
 
 ### Patch Changes

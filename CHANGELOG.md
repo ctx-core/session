@@ -1,5 +1,13 @@
 # @ctx-core/session
 
+## 7.0.41
+
+### Patch Changes
+
+- update dependencies
+- Updated dependencies [undefined]
+  - @ctx-core/env@10.0.59
+
 ## 7.0.40
 
 ### Patch Changes

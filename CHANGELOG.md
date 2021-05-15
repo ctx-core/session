@@ -1,5 +1,16 @@
 # @ctx-core/session
 
+## 7.1.0
+
+### Minor Changes
+
+- "noImplicitAny": true
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/env@10.1.0
+
 ## 7.0.43
 
 ### Patch Changes

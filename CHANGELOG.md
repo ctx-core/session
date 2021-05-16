@@ -1,5 +1,13 @@
 # @ctx-core/session
 
+## 7.1.2
+
+### Patch Changes
+
+- .npmignore: + ~
+- Updated dependencies [undefined]
+  - @ctx-core/env@10.1.2
+
 ## 7.1.1
 
 ### Patch Changes

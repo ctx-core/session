@@ -1,5 +1,16 @@
 # @ctx-core/session
 
+## 7.2.0
+
+### Minor Changes
+
+- dist,types directory: addressing typescript build issues
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/env@10.3.0
+
 ## 7.1.4
 
 ### Patch Changes

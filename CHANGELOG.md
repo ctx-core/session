@@ -1,5 +1,16 @@
 # @ctx-core/session
 
+## 7.3.0
+
+### Minor Changes
+
+- fix tsc build directory issues
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/env@10.4.0
+
 ## 7.2.1
 
 ### Patch Changes

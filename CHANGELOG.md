@@ -1,5 +1,13 @@
 # @ctx-core/session
 
+## 7.3.3
+
+### Patch Changes
+
+- fix: build: clean up old build files in dist
+- Updated dependencies [undefined]
+  - @ctx-core/env@11.0.15
+
 ## 7.3.2
 
 ### Patch Changes

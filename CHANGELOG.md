@@ -1,5 +1,13 @@
 # @ctx-core/session
 
+## 7.3.4
+
+### Patch Changes
+
+- version bump: run build
+- Updated dependencies [undefined]
+  - @ctx-core/env@11.0.16
+
 ## 7.3.3
 
 ### Patch Changes

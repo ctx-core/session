@@ -1,5 +1,11 @@
 # @ctx-core/session
 
+## 7.3.5
+
+### Patch Changes
+
+- update dependencies
+
 ## 7.3.4
 
 ### Patch Changes

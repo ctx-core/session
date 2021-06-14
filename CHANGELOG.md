@@ -1,5 +1,16 @@
 # @ctx-core/session
 
+## 8.0.0
+
+### Major Changes
+
+- move from dist to src directory
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/env@12.0.0
+
 ## 7.3.6
 
 ### Patch Changes

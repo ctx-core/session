@@ -1,5 +1,13 @@
 # @ctx-core/session
 
+## 8.0.8
+
+### Patch Changes
+
+- fix: deploying \*.js files
+- Updated dependencies [undefined]
+  - @ctx-core/env@12.0.10
+
 ## 8.0.7
 
 ### Patch Changes

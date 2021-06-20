@@ -1,5 +1,13 @@
 # @ctx-core/session
 
+## 8.0.7
+
+### Patch Changes
+
+- "prepare": "npm run clean && npm run compile"
+- Updated dependencies [undefined]
+  - @ctx-core/env@12.0.9
+
 ## 8.0.6
 
 ### Patch Changes

@@ -1,5 +1,13 @@
 # @ctx-core/session
 
+## 8.0.6
+
+### Patch Changes
+
+- npm run prepare instead of npm run prepublishOnly
+- Updated dependencies [undefined]
+  - @ctx-core/env@12.0.8
+
 ## 8.0.5
 
 ### Patch Changes

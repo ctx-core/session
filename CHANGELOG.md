@@ -1,5 +1,13 @@
 # @ctx-core/session
 
+## 8.0.10
+
+### Patch Changes
+
+- tsconfig.json: "lib": ["dom", "ESNext"]
+- Updated dependencies [undefined]
+  - @ctx-core/env@12.0.14
+
 ## 8.0.9
 
 ### Patch Changes

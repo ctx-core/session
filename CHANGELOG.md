@@ -1,5 +1,13 @@
 # @ctx-core/session
 
+## 8.0.12
+
+### Patch Changes
+
+- update dependencies
+- Updated dependencies [undefined]
+  - @ctx-core/env@12.0.18
+
 ## 8.0.11
 
 ### Patch Changes

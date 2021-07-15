@@ -1,5 +1,13 @@
 # @ctx-core/session
 
+## 9.0.2
+
+### Patch Changes
+
+- fix: "type": "module"
+- Updated dependencies [undefined]
+  - @ctx-core/env@13.0.2
+
 ## 9.0.1
 
 ### Patch Changes

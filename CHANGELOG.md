@@ -1,5 +1,16 @@
 # @ctx-core/session
 
+## 9.0.0
+
+### Major Changes
+
+- "type": "module": module npm type
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/env@13.0.0
+
 ## 8.0.15
 
 ### Patch Changes

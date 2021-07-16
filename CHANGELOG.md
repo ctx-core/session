@@ -1,5 +1,13 @@
 # @ctx-core/session
 
+## 9.0.6
+
+### Patch Changes
+
+- fix: index.cjs: module.exports = require('./index.js')
+- Updated dependencies [undefined]
+  - @ctx-core/env@13.0.8
+
 ## 9.0.5
 
 ### Patch Changes

@@ -1,5 +1,21 @@
 # @ctx-core/session
 
+## 9.0.10
+
+### Patch Changes
+
+- fix: sourceMappingURL: "mapRoot": ""
+- Updated dependencies [undefined]
+  - @ctx-core/env@13.0.12
+
+## 9.0.9
+
+### Patch Changes
+
+- tsconfig.json: "target": "es2019"
+- Updated dependencies [undefined]
+  - @ctx-core/env@13.0.11
+
 ## 9.0.8
 
 ### Patch Changes

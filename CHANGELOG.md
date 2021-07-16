@@ -1,5 +1,13 @@
 # @ctx-core/session
 
+## 9.0.7
+
+### Patch Changes
+
+- "main": "./dist/index.cjs"
+- Updated dependencies [undefined]
+  - @ctx-core/env@13.0.9
+
 ## 9.0.6
 
 ### Patch Changes

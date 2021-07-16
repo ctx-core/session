@@ -1,5 +1,13 @@
 # @ctx-core/session
 
+## 9.0.8
+
+### Patch Changes
+
+- fix: cjs: load as a Promise
+- Updated dependencies [undefined]
+  - @ctx-core/env@13.0.10
+
 ## 9.0.7
 
 ### Patch Changes

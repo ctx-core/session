@@ -1,5 +1,11 @@
 # @ctx-core/session
 
+## 9.0.15
+
+### Patch Changes
+
+- update dependencies
+
 ## 9.0.14
 
 ### Patch Changes

@@ -1,5 +1,13 @@
 # @ctx-core/session
 
+## 9.0.22
+
+### Patch Changes
+
+- compile using swc
+- Updated dependencies
+  - @ctx-core/env@13.0.45
+
 ## 9.0.21
 
 ### Patch Changes

@@ -1,5 +1,13 @@
 # @ctx-core/session
 
+## 9.0.30
+
+### Patch Changes
+
+- package.json: - "main": explicitly not support cjs
+- Updated dependencies
+  - @ctx-core/env@13.0.54
+
 ## 9.0.29
 
 ### Patch Changes

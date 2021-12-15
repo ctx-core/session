@@ -1,5 +1,13 @@
 # @ctx-core/session
 
+## 9.0.32
+
+### Patch Changes
+
+- package.json: svelte: ./dist/index.js
+- Updated dependencies
+  - @ctx-core/env@14.0.2
+
 ## 9.0.31
 
 ### Patch Changes

@@ -1,5 +1,13 @@
 # @ctx-core/session
 
+## 9.0.35
+
+### Patch Changes
+
+- \*.d.ts export
+- Updated dependencies
+  - @ctx-core/env@14.0.5
+
 ## 9.0.34
 
 ### Patch Changes

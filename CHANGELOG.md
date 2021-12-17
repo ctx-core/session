@@ -1,5 +1,13 @@
 # @ctx-core/session
 
+## 9.0.38
+
+### Patch Changes
+
+- tsconfig.json: "target": "ES2021"
+- Updated dependencies
+  - @ctx-core/env@14.0.8
+
 ## 9.0.37
 
 ### Patch Changes

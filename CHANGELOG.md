@@ -1,5 +1,13 @@
 # @ctx-core/session
 
+## 9.0.37
+
+### Patch Changes
+
+- package.json: "types": "./src/index.ts": better editing experience
+- Updated dependencies
+  - @ctx-core/env@14.0.7
+
 ## 9.0.36
 
 ### Patch Changes

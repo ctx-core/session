@@ -1,5 +1,13 @@
 # @ctx-core/session
 
+## 9.0.41
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+- Updated dependencies
+  - @ctx-core/env@15.0.7
+
 ## 9.0.40
 
 ### Patch Changes

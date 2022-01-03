@@ -1,5 +1,13 @@
 # @ctx-core/session
 
+## 9.0.42
+
+### Patch Changes
+
+- version bump
+- Updated dependencies
+  - @ctx-core/env@15.0.8
+
 ## 9.0.41
 
 ### Patch Changes

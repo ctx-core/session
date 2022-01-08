@@ -1,5 +1,13 @@
 # @ctx-core/session
 
+## 9.0.44
+
+### Patch Changes
+
+- sideEffects = false
+- Updated dependencies
+  - @ctx-core/env@15.0.10
+
 ## 9.0.43
 
 ### Patch Changes

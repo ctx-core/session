@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/session",
-	"version": "9.0.49",
+	"version": "9.0.50",
 	"description": "ctx-core session",
 	"keywords": [
 		"ctx-core",
@@ -35,7 +35,7 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/env": "workspace:^16.0.0"
+		"@ctx-core/env": "workspace:^16.0.1"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.55",

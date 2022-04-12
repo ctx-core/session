@@ -1,5 +1,13 @@
 # @ctx-core/session
 
+## 9.0.58
+
+### Patch Changes
+
+- package.json: exports: update
+- Updated dependencies
+  - @ctx-core/env@16.0.16
+
 ## 9.0.57
 
 ### Patch Changes

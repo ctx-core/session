@@ -1,5 +1,13 @@
 # @ctx-core/session
 
+## 9.0.61
+
+### Patch Changes
+
+- @ctx-core/function: 20.7.1
+- Updated dependencies
+  - @ctx-core/env@16.0.20
+
 ## 9.0.60
 
 ### Patch Changes

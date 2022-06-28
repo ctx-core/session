@@ -1,1 +1,1 @@
-export * from './env.js'
+export * from './AUTH0_LOCK_URL/index.js'

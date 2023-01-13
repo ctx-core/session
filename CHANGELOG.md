@@ -1,5 +1,11 @@
 # @ctx-core/session
 
+## 9.0.80
+
+### Patch Changes
+
+- rimraf: ^4.0.1 -> ^4.0.4
+
 ## 9.0.79
 
 ### Patch Changes

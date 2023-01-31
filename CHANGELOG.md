@@ -1,5 +1,13 @@
 # @ctx-core/session
 
+## 9.0.84
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+- Updated dependencies
+  - @ctx-core/env@16.1.37
+
 ## 9.0.83
 
 ### Patch Changes

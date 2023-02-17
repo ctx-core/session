@@ -1,5 +1,16 @@
 # @ctx-core/session
 
+## 9.1.0
+
+### Minor Changes
+
+- extract _.js & _.d.ts into directories
+
+### Patch Changes
+
+- Updated dependencies
+  - @ctx-core/env@17.2.0
+
 ## 9.0.97
 
 ### Patch Changes

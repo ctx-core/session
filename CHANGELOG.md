@@ -1,5 +1,13 @@
 # @ctx-core/session
 
+## 9.1.47
+
+### Patch Changes
+
+- @ctx-core/env: ^17.2.51 -> ^17.2.52
+- Updated dependencies
+  - @ctx-core/env@17.2.53
+
 ## 9.1.46
 
 ### Patch Changes

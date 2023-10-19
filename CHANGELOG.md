@@ -1,5 +1,13 @@
 # @ctx-core/session
 
+## 9.1.129
+
+### Patch Changes
+
+- tsx: ^3.13.0 -> ^3.14.0
+- Updated dependencies
+  - @ctx-core/env@17.3.10
+
 ## 9.1.128
 
 ### Patch Changes

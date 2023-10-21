@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/session",
-	"version": "9.1.130",
+	"version": "9.1.131",
 	"description": "ctx-core session",
 	"keywords": [
 		"ctx-core",
@@ -33,7 +33,7 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/env": "^17.3.11"
+		"@ctx-core/env": "^17.3.12"
 	},
 	"devDependencies": {
 		"c8": "^8.0.1",

@@ -1,5 +1,13 @@
 # @ctx-core/session
 
+## 9.2.2
+
+### Patch Changes
+
+- fix: missing tsconfig.json
+- Updated dependencies
+  - @ctx-core/env@17.4.2
+
 ## 9.2.1
 
 ### Patch Changes

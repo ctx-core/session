@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/session",
-	"version": "9.2.2",
+	"version": "9.2.3",
 	"description": "ctx-core session",
 	"keywords": [
 		"ctx-core",
@@ -19,6 +19,7 @@
 	"type": "module",
 	"files": [
 		"*.d.ts",
+		"*.js",
 		"*.json",
 		"./env"
 	],
@@ -37,7 +38,7 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/env": "^17.4.2"
+		"@ctx-core/env": "^17.4.3"
 	},
 	"devDependencies": {
 		"c8": "^8.0.1",

@@ -1,5 +1,11 @@
 # @ctx-core/session
 
+## 9.2.7
+
+### Patch Changes
+
+- @ctx-core/env: ^17.4.6 -> ^17.4.7
+
 ## 9.2.6
 
 ### Patch Changes

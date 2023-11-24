@@ -1,5 +1,13 @@
 # @ctx-core/session
 
+## 9.2.27
+
+### Patch Changes
+
+- tsx: ^4.3.0 -> ^4.4.0
+- Updated dependencies
+  - @ctx-core/env@17.4.28
+
 ## 9.2.26
 
 ### Patch Changes

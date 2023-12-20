@@ -21,7 +21,7 @@
 		"*.d.ts",
 		"*.js",
 		"*.json",
-		"./env"
+		"env"
 	],
 	"types": "./index.d.ts",
 	"exports": {
@@ -38,7 +38,7 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/env": "^17.4.61"
+		"ctx-core": "^5.1.0"
 	},
 	"devDependencies": {
 		"c8": "^8.0.1",

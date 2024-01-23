@@ -1,5 +1,11 @@
 # @ctx-core/session
 
+## 9.2.108
+
+### Patch Changes
+
+- ctx-core: ^5.25.4 -> ^5.25.5
+
 ## 9.2.107
 
 ### Patch Changes

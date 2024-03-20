@@ -1,5 +1,13 @@
 # @ctx-core/session
 
+## 9.2.160
+
+### Patch Changes
+
+- package.json: author: url,email
+- Updated dependencies
+  - ctx-core@6.6.1
+
 ## 9.2.159
 
 ### Patch Changes
